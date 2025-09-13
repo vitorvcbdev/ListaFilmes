@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="150dp"
     android:layout_marginBottom="10dp"
-    android:background="#FF0000">
+    android:background="#3700FF">
 
     <TextView
         android:id="@+id/txv_titulo_filme"
